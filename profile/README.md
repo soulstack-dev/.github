@@ -8,8 +8,8 @@ Soulstack is an independent British software house building creator tools, games
 
 - [Soulstack](https://soulstack.co.uk/) - company site
 - [Soulstack Creator](https://soulstack.gg/) - creator tools for Twitch, Discord and OBS
-- [Creator Console](https://creator.soulstack.gg/) - creator app
-- [Documentation](https://docs.soulstack.gg/) - product docs
+- [Soulstack Social](https://social.soulstack.gg/) - social hub
+- [Creator Documentation](https://docs.soulstack.gg/) - product docs
 
 ## Formerly Goose Quest
 
